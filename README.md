@@ -1,5 +1,5 @@
 # Sales-Insight-of-Atliq-Hardware-using-Tableau-SQL
-Sales Insight using Tableau &amp; SQL
+
 In a recent project, I utilized Tableau and SQL to create a sales dashboard, drawing insights from the Codebasics YouTube channel. The objective was to deliver actionable sales insights for better decision-making.
 
 - **Data Extraction and Transformation**: Using SQL, I extracted and transformed data from various sources. I crafted complex queries to calculate key performance indicators such as total sales, average order value, and customer acquisition rates, establishing a solid data foundation that accurately reflected the company's sales dynamics.
